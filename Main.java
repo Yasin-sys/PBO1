@@ -10,6 +10,6 @@ public class Main{
     Database.hubungkan();
     Mahasiswa.tampilanInfo();
     Dosen.tampilanInfo();
-    Matakuliah.tampilanInfo
+    Matakuliah.tampilanInfo();
   }
 }
